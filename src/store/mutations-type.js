@@ -1,0 +1,1 @@
+// export const BANNER_IMG = 'bannerimg' // 轮播图
